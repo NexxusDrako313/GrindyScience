@@ -1,5 +1,5 @@
 # Grindy Science
-Hey, Space Program Managers! Are you tired of science being too easy? Get Grindy Science today and recieve 25% of the science cap at any one time! Requires ModuleManager
+Hey, Space Program Managers! Are you tired of science being too easy? Get Grindy Science today and recieve 33% of the possible science at any one time! Requires ModuleManager
 
 This mod requires ModuleManager, as it's a simple MM config.
 
